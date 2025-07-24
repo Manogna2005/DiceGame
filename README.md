@@ -40,6 +40,6 @@ This is a simple two-player dice game built using HTML, CSS, and JavaScript. Eac
 ---
  ## View my Website at
 
-
+https://manogna2005.github.io/DiceGame/
 ---
 
