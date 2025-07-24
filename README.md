@@ -8,7 +8,6 @@ This is a simple two-player dice game built using HTML, CSS, and JavaScript. Eac
 
 - Two buttons for Player 1 and Player 2
 - Random die roll from 1 to 6
-- Displays each player's result
 - Declares the winner or a draw once both players roll
 
 ---
