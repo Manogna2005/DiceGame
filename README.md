@@ -41,7 +41,5 @@ This is a simple two-player dice game built using HTML, CSS, and JavaScript. Eac
  ## View my Website at
 
 
-<img width="1335" height="570" alt="image" src="https://github.com/user-attachments/assets/993ffc6d-99c9-4884-ba2c-68d08cb9127f" />
-
 ---
 
